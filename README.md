@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiyandargie" alt="abiyandargie" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/keste_nhb" target="blank"><img src="https://img.shields.io/twitter/follow/keste_nhb?logo=twitter&style=for-the-badge" alt="keste_nhb" /></a> </p>
+
 - 🌱 I’m currently learning **flutter mobile app development**
 
-- 💬 Ask me about **javascript, php , html ,css**
+- 💬 Ask me about **javascript, php , html ,css,java,c++**
 
-- 📫 How to reach me **anddargieabiy85@gmail.com**
+- 📫 How to reach me **andargieabiy85@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
