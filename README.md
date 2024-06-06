@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABIY</h1>
-<h3 align="center">fullstack developer from ETHIOPIA</h3>
+<h3 align="center">computer science student from ETHIOPIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiyandargie&label=Profile%20views&color=0e75b6&style=flat" alt="abiyandargie" /> </p>
 
